@@ -1,2 +1,2 @@
 # FileSharing
-A client/server file sharing applicatin in java.
+A client/server file sharing application in java.
